@@ -104,6 +104,6 @@ function moverCobra(){
             }
         }
     }
-    
+    return false;
 }
 iniciar();
